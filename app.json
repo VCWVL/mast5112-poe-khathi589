@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mastFoodapp",
-    "slug": "mastFoodapp",
+    "name": "mastFood",
+    "slug": "mastFood",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
